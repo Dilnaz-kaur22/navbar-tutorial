@@ -1,8 +1,8 @@
 # navbar-tutorial
 How to create navigational bar in your Webpage
 
+![Screenshot (6)](https://user-images.githubusercontent.com/126363154/221740182-8d00b005-4177-4d51-9ed7-b73445d84df2.png)
 
-<img alt="example" src="https://www.elegantthemes.com/blog/wp-content/uploads/2017/02/hover-effect-one.gif">
 
 A **Navigation Bar** helps the visitors in accessing information easily.
 It is the UI element on a webpage that include links for the other section of website.
@@ -177,3 +177,4 @@ header ul li a:hover{
 ```
 
 ##### Now, our final navbar is ready to display.
+
